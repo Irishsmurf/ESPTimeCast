@@ -4,7 +4,7 @@
 ![GitHub forks](https://img.shields.io/github/forks/mfactory-osaka/ESPTimeCast?style=social)
 ![Last Commit](https://img.shields.io/github/last-commit/mfactory-osaka/ESPTimeCast)
 
-**ESPTimeCast** is a WiFi-connected LED matrix clock and weather station based on ESP8266 and MAX7219.  
+**ESPTimeCast** is a WiFi-connected LED matrix clock and weather station based on ESP8266/ESP32 and MAX7219.  
 It displays the current time, day of the week, and local weather (temp/humidity/weather description) fetched from OpenWeatherMap.  
 Setup and configuration are fully managed via a built-in web interface.  
 
@@ -17,8 +17,8 @@ Want to give your ESPTimeCast a home? You can 3D print a custom case for it!
 
 <img src="assets/image01.png" alt="3D Printable Case" width="320" />
 
-[![Printables Downloads](https://img.shields.io/badge/Printables-105%20Downloads-orange?logo=prusa)](https://www.printables.com/model/1344276-esptimecast-wi-fi-clock-weather-display)
-[![Cults3D Downloads](https://img.shields.io/badge/Cults3D-53%20Downloads-blue?logo=cults3d)](https://cults3d.com/en/3d-model/gadget/wifi-connected-led-matrix-clock-and-weather-station-esp8266-and-max7219)
+[![Printables Downloads](https://img.shields.io/badge/Printables-119%20Downloads-orange?logo=prusa)](https://www.printables.com/model/1344276-esptimecast-wi-fi-clock-weather-display)
+[![Cults3D Downloads](https://img.shields.io/badge/Cults3D-54%20Downloads-blue?logo=cults3d)](https://cults3d.com/en/3d-model/gadget/wifi-connected-led-matrix-clock-and-weather-station-esp8266-and-max7219)
 
 ---
 
@@ -270,6 +270,8 @@ If you enjoy this project, please consider supporting my work:
 
 [![Donate via PayPal](https://img.shields.io/badge/Donate-PayPal-blue.svg?logo=paypal)](https://www.paypal.me/officialuphoto)
 [![GitHub Sponsors](https://img.shields.io/badge/GitHub-Sponsor-fafbfc?logo=github&logoColor=ea4aaa)](https://github.com/sponsors/mfactory-osaka) 
+
+
 
 
 
